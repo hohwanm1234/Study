@@ -32,7 +32,9 @@
 - git reset --hard 커밋아이디 : 아이디 시절로 하드 리셋
 
 - git flow :  깃플로우 전략
+
 ![깃 플로우](https://github.com/hohwanm1234/Study/assets/46438755/b9e80b0b-cbe2-4293-a2bf-fb1835d72c8c)
 
 - Trunk-based : Trunk-based 전략
+
 ![Trunk-based](https://github.com/hohwanm1234/Study/assets/46438755/b704ad26-0c24-4064-8828-632e1fd10884)
