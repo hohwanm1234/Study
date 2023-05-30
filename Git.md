@@ -13,9 +13,11 @@
 
 # Git 전략 방식
 - 3-way merge : 일반적인 merge 방식
+
 ![3-way merge](https://github.com/hohwanm1234/Study/assets/46438755/b6b900df-35de-4e35-bdfc-911d485fced8)
 
 - fast-forward merge : 새로운 브랜치에 그대로 merge
+
 ![fast-forward merge](https://github.com/hohwanm1234/Study/assets/46438755/2bb0c76a-fc36-4626-8c82-8c210531e711)
 
 - git branch -d/D 브랜치명 : 삭제
